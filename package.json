@@ -1,0 +1,26 @@
+{
+  "name": "appear-in-telegram-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwselleck/appear-in-telegram-bot.git"
+  },
+  "author": "Weston Selleck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwselleck/appear-in-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/wwselleck/appear-in-telegram-bot#readme",
+  "dependencies": {
+    "appearin-sdk": "0.0.4",
+    "node-telegram-bot-api": "^0.20.1"
+  },
+  "devDependencies": {
+    "request-promise": "^2.0.1"
+  }
+}
